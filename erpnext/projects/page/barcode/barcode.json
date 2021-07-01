@@ -1,0 +1,21 @@
+{
+ "content": null, 
+ "creation": "2021-01-23 23:47:55.006024", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2021-01-23 23:48:32.033545", 
+ "modified_by": "Administrator", 
+ "module": "Projects", 
+ "name": "barcode", 
+ "owner": "Administrator", 
+ "page_name": "Barcode", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null
+}

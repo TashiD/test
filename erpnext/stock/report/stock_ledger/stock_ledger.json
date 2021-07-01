@@ -1,0 +1,38 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2013-11-29 17:08:23", 
+ "disabled": 1, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 1, 
+ "is_standard": "Yes", 
+ "modified": "2020-01-30 12:15:41.830380", 
+ "modified_by": "kinzang.namgyal@cdcl.bt", 
+ "module": "Stock", 
+ "name": "Stock Ledger", 
+ "owner": "Administrator", 
+ "ref_doctype": "Stock Ledger Entry", 
+ "report_name": "Stock Ledger", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }, 
+  {
+   "role": "Stock Manager"
+  }, 
+  {
+   "role": "Stock User"
+  }, 
+  {
+   "role": "Stock User (other)"
+  }, 
+  {
+   "role": "POL User"
+  }, 
+  {
+   "role": "Auditor"
+  }
+ ]
+}

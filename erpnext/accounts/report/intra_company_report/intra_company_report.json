@@ -1,0 +1,32 @@
+{
+ "add_total_row": 1, 
+ "apply_user_permissions": 1, 
+ "creation": "2017-09-15 11:37:51.338111", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "modified": "2018-07-11 09:51:39.425942", 
+ "modified_by": "kinzang.namgyal@cdcl.bt", 
+ "module": "Accounts", 
+ "name": "Intra Company Report", 
+ "owner": "Administrator", 
+ "ref_doctype": "GL Entry", 
+ "report_name": "Intra Company Report", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }, 
+  {
+   "role": "Accounts Manager"
+  }, 
+  {
+   "role": "Accounts User"
+  }, 
+  {
+   "role": "Auditor"
+  }
+ ]
+}

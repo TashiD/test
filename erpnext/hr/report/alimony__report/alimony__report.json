@@ -1,0 +1,29 @@
+{
+ "add_total_row": 1, 
+ "apply_user_permissions": 0, 
+ "creation": "2018-03-09 15:33:02.798337", 
+ "disabled": 1, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "modified": "2018-03-28 09:54:50.121348", 
+ "modified_by": "Administrator", 
+ "module": "HR", 
+ "name": "Alimony  Report", 
+ "owner": "Administrator", 
+ "ref_doctype": "Salary Slip", 
+ "report_name": "Alimony  Report", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "HR User"
+  }, 
+  {
+   "role": "Accounts User"
+  }, 
+  {
+   "role": "Administrator"
+  }
+ ]
+}

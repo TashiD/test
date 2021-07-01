@@ -1,0 +1,32 @@
+{
+ "add_total_row": 1, 
+ "apply_user_permissions": 0, 
+ "creation": "2013-05-07 18:09:42", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 1, 
+ "is_standard": "Yes", 
+ "modified": "2018-12-22 10:50:14.487874", 
+ "modified_by": "kinzang.namgyal@cdcl.bt", 
+ "module": "HR", 
+ "name": "Monthly Salary Register", 
+ "owner": "Administrator", 
+ "ref_doctype": "Salary Slip", 
+ "report_name": "Monthly Salary Register", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }, 
+  {
+   "role": "HR Manager"
+  }, 
+  {
+   "role": "Accounts User"
+  }, 
+  {
+   "role": "Auditor"
+  }
+ ]
+}

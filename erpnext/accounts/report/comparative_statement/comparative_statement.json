@@ -1,0 +1,35 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2017-08-12 11:45:40.409270", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "modified": "2019-05-23 10:05:52.403992", 
+ "modified_by": "kinzang.namgyal@cdcl.bt", 
+ "module": "Accounts", 
+ "name": "Comparative Statement", 
+ "owner": "Administrator", 
+ "ref_doctype": "GL Entry", 
+ "report_name": "Comparative Statement", 
+ "report_type": "Script Report", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }, 
+  {
+   "role": "Accounts Manager"
+  }, 
+  {
+   "role": "Regional Manager"
+  }, 
+  {
+   "role": "Management"
+  }, 
+  {
+   "role": "Auditor"
+  }
+ ]
+}
